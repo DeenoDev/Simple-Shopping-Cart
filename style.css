@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+    height: 50px;
+}
+
+li{
+    display: flex;   
+}
+.input_dim{
+
+    width: 150px;
+    height: 50px;
+}
